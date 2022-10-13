@@ -1,0 +1,88 @@
+:root {
+	--text-grey: RGB(39, 39, 39, 1);
+	--text-white: RGB(255, 255, 255);
+	--color-orange: #f7662c;
+	--color-orange-light: #FF774B;
+	--text-dark-grey: #141414;
+	--hover-light: #ffffff94;
+	--abt-menu: #d9d9e0;
+	--para-text-dark: #242429;
+	--mask-light-text: #f2f2f4;
+	--para-text-light: #b0b0c0;
+	--Clash-font: 'Clash Display';
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-size: 16px;
+	color: RGB(39, 39, 39);
+	font-weight: 400;
+	font-family: 'Clash Display', 'Inter';
+	background-color: #fff;
+}
+
+@font-face {
+	font-family: 'Clash Display';
+	src: url('false.woff2') format('woff2'),
+		url('false.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: rgba(39, 39, 39, 1);
+	font-family: var(--Clash-font);
+	font-weight: 600;
+	margin: 0;
+}
+
+h1 {
+	font-size: 72px;
+	letter-spacing: 0px;
+	line-height: 80px;
+}
+
+h2 {
+	font-size: 64px;
+	letter-spacing: 0px;
+	line-height: 72px;
+}
+
+h3 {
+	font-size: 56px;
+	letter-spacing: 0px;
+	line-height: 64px;
+}
+
+h4 {
+	font-size: 48px;
+	letter-spacing: 0px;
+	line-height: 56px;
+}
+
+h5 {
+	font-size: 40px;
+	letter-spacing: 0px;
+	line-height: 48px;
+}
+
+h6 {
+	font-size: 24px;
+	letter-spacing: 0px;
+	line-height: 32px;
+}
+
+p {
+	font-family: "Inter-SemiBold";
+	font-size: 14px;
+	font-weight: 500;
+	letter-spacing: 0px;
+	line-height: 20px;
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Scroll to explore@3x</title>
+    <defs>
+        <path d="M12,0 C18.627417,-1.21743675e-15 24,5.372583 24,12 C24,18.627417 18.627417,24 12,24 C5.372583,24 8.11624501e-16,18.627417 0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="path-1"></path>
+    </defs>
+    <g id="🖥-Website-UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.-Home---Web" transform="translate(-112.000000, -844.000000)">
+            <g id="1.-Hero" transform="translate(0.000000, 112.000000)">
+                <g id="Scroll-to-explore" transform="translate(112.000000, 732.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="place-holder" fill="#6B6B6B" xlink:href="#path-1"></use>
+                    <path d="M11.1755039,7.8 L12.1693503,8.80019516 L9.89,11.092 L16.8,11.0928638 L16.8,12.5071362 L9.891,12.507 L12.1693503,14.7998048 L11.1755039,15.8 L8.194,12.799 L7.2,11.8 L8.19390548,10.7998133 L8.194,10.8 L11.1755039,7.8 Z" id="Combined-shape-29888" fill="#FFFFFF" mask="url(#mask-2)" transform="translate(12.000000, 11.800000) scale(-1, 1) rotate(-90.000000) translate(-12.000000, -11.800000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

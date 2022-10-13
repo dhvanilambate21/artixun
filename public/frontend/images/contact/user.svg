@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>user-d40@3x</title>
+    <g id="🖥-Website-UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.-Contact-Form---Web" transform="translate(-472.000000, -488.000000)">
+            <g id="3.-Form" transform="translate(112.000000, 468.000000)">
+                <g id="Form/default-form" transform="translate(0.000000, 20.000000)">
+                    <path d="M0,43 L384,43 L384,44 L0,44 L0,43 Z" id="divider" fill="#D4D4D4"></path>
+                    <g id="plus" transform="translate(360.000000, 0.000000)">
+                        <polygon id="place-holder" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M12,1 C15.3137083,1 18,3.68629146 18,7 C18,8.94358247 17.0758753,10.6713242 15.6430543,11.7677969 C18.7984806,13.1661005 21,16.325954 21,20 L21,22 C21,22.5522852 20.5522842,23 20,23 C19.4477148,23 19,22.5522852 19,22 L19,20 C19,16.1340065 15.8659935,13 12,13 C8.1340065,13 5,16.1340065 5,20 L5,22 C5,22.5522852 4.55228478,23 4,23 C3.44771522,23 3,22.5522852 3,22 L3,20 C3,16.325954 5.20151883,13.1661005 8.35735077,11.7676452 C6.92412459,10.6713242 6,8.94358247 6,7 C6,3.68629146 8.68629146,1 12,1 Z M12,3 C9.79086089,3 8,4.79086089 8,7 C8,9.20913887 9.79086089,11 12,11 C14.2091389,11 16,9.20913887 16,7 C16,4.79086089 14.2091389,3 12,3 Z" id="Combined-Shape" fill="#8C8C8C"></path>
+                    </g>
+                    <text id="Siddharth-Ghediya" font-family="Inter-SemiBold, Inter" font-size="18" font-weight="500" line-spacing="24" fill="#5438C5">
+                        <tspan x="0" y="17">Siddharth Ghediya</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="920px" viewBox="0 0 1440 920" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>main-hero-bg@3x</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1440" height="1108"></rect>
+        <filter x="-57.6%" y="-57.6%" width="215.1%" height="215.1%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="80" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-57.6%" y="-57.6%" width="215.1%" height="215.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="80" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="🖥-Website-UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.-Home---Web" transform="translate(0.000000, -3944.000000)">
+            <g id="main-hero-bg" transform="translate(0.000000, 3944.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#FAFAFA" xlink:href="#path-1"></use>
+                <g id="blur-gradient" mask="url(#mask-2)" fill="#91F6D8" fill-rule="nonzero" opacity="0.239164807">
+                    <g transform="translate(27.000000, 354.000000)" id="gradient-1">
+                        <path d="M417,208.5 C417,323.652289 323.652289,417 208.5,417 C93.3487157,417 0,323.652289 0,208.5 C0,93.3487157 93.3487157,0 208.5,0 C323.652289,0 417,93.3487157 417,208.5 Z" filter="url(#filter-3)"></path>
+                        <path d="M417,558.5 C417,673.652289 323.652289,767 208.5,767 C93.3487157,767 0,673.652289 0,558.5 C0,443.348716 93.3487157,350 208.5,350 C323.652289,350 417,443.348716 417,558.5 Z" filter="url(#filter-4)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

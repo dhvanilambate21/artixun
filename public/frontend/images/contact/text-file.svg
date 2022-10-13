@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>text-file-d40@3x</title>
+    <g id="🖥-Website-UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.-Contact-Form---Web" transform="translate(-888.000000, -584.000000)">
+            <g id="3.-Form" transform="translate(112.000000, 468.000000)">
+                <g id="3.-Tell-us-about-your-project" transform="translate(0.000000, 96.000000)">
+                    <g id="Form/default-form" transform="translate(0.000000, 20.000000)">
+                        <path d="M0,43 L800,43 L800,44 L0,44 L0,43 Z" id="divider" fill="#D4D4D4"></path>
+                        <g id="plus" transform="translate(779.000000, 1.000000)" fill="#8C8C8C">
+                            <path d="M12.3431454,0 C13.4040117,0 14.4214277,0.421427548 15.1715727,1.17157304 L16.8284283,2.82842851 C17.5785732,3.57857394 18,4.59598827 18,5.65685415 L18,18 C18,20.2091389 16.2091389,22 14,22 L4,22 C1.79086089,22 0,20.2091389 0,18 L0,4 C0,1.79086113 1.79086113,0 4,0 L12.3431454,0 Z M11,2 L4,2 C2.8954308,2 2,2.8954308 2,4 L2,18 C2,19.1045704 2.89543056,20 4,20 L14,20 C15.1045694,20 16,19.1045704 16,18 L16,7 L14,7 C12.3431454,7 11,5.65685463 11,4 L11,2 Z M9,15 C9.55228519,15 10,15.4477158 10,16 C10,16.5522842 9.55228519,17 9,17 L6,17 C5.44771481,17 5,16.5522842 5,16 C5,15.4477158 5.44771481,15 6,15 Z M12,11 C12.5522852,11 13,11.4477148 13,12 C13,12.5522852 12.5522852,13 12,13 L6,13 C5.44771481,13 5,12.5522852 5,12 C5,11.4477148 5.44771481,11 6,11 Z M13,2.11094022 L13,4 C13,4.55228472 13.4477148,5 14,5 L15.88906,5 C15.7908583,4.71759701 15.6296482,4.45807552 15.4142151,4.24264193 L13.7573595,2.58578658 C13.5419254,2.37035251 13.2824039,2.20914245 13,2.11094022 Z" id="Combined-Shape"></path>
+                        </g>
+                        <text id="1.-Your-name" font-family="Inter-SemiBold, Inter" font-size="18" font-weight="500" line-spacing="24" fill="#12131A">
+                            <tspan x="0" y="17">3. Tell us about your project</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
