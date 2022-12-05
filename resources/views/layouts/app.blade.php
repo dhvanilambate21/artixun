@@ -20,6 +20,8 @@
     <link rel="stylesheet" href="{{ asset('frontend/css/index.css') }}">
 
     <!-- Responsive CSS -->
+    <link href="{{ asset('frontend/css/style.css') }}" rel="stylesheet" type="text/css">
+
     <link href="{{ asset('frontend/css/responsive.css') }}" rel="stylesheet" type="text/css">
 
 </head>
@@ -27,19 +29,40 @@
 <body>
 
 
-@include('includes.header')
-@yield('main-content')
-@include('includes.footer')
+    @if(Route::currentRouteName() == 'home')
+
+    @include('includes.header')
+
+    @elseif(Route::currentRouteName() == 'services')
+
+    @include('includes.serviceheader')
+
+    @elseif(Route::currentRouteName() == 'work')
+
+    @include('includes.workheader')
+
+    @elseif(Route::currentRouteName() == 'about')
+
+    @include('includes.aboutusheader')
+
+    @elseif(Route::currentRouteName() == 'contact')
+
+    @include('includes.contactusheader')
+    @endif
+
+
+    @yield('main-content')
+    @include('includes.footer')
 
 
 
-<script type="text/javascript" src="{{ asset('frontend/js/jquery-3.6.0.min.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('frontend/js/jquery-3.6.0.min.js') }}"></script>
 
-<script type="text/javascript" src="{{ asset('frontend/js/bootstrap.min.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('frontend/js/bootstrap.min.js') }}"></script>
 
-<script type="text/javascript" src="{{ asset('frontend/js/slick.min.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('frontend/js/slick.min.js') }}"></script>
 
-<script type="text/javascript" src="{{ asset('frontend/js/custom.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('frontend/js/custom.js') }}"></script>
 </body>
 
 </html>

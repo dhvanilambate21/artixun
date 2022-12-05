@@ -1,6 +1,5 @@
 @extends('layouts.app')
 @section('main-content')
-<section class="about__bg">
 <div class="container">
             <div class="row g-0 art__header__ab service_bnr-area">
                 <div class="col-lg-12">
@@ -18,7 +17,6 @@
             <img class="img-fluid" src="{{ asset('frontend/images/service-img-web@2x.png') }}" alt="Service Banner">
         </div>
     </section>
-</section>
 
     <section class="our_work_ctm">
         <div class="container">

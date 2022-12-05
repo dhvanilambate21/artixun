@@ -61,7 +61,7 @@
                         <h3>Office</h3>
                         <p>1014 - The Spire 2, 150 Feet Ring Rd, Sheetal Park, Rajkot, Gujarat 360007</p>
                         <div class="link_main">
-                            <p><a href="https://goo.gl/maps/hyi1tNT6UuJZAf4V8" target="_blank" class="btn btn-iconic-blue">Get Direction<img src="images/cross-arrow-blue.svg"
+                            <p><a href="https://goo.gl/maps/hyi1tNT6UuJZAf4V8" target="_blank" class="btn btn-iconic-blue">Get Direction<img src="{{ asset('frontend/images/cross-arrow-blue.svg') }}"
                                     alt="arrow"> </a></p>
                         </div>
                     </div>
